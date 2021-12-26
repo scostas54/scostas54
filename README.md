@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scostas54
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning docker,SQL, MONGODB, PHP
-- 💞️ I’m looking to collaborate on collaborative Python projects
-- 📫 How to reach me send me an email
+- 👀 I’m interested in engineering and programing.
+- 🌱 I’m currently learning docker, SQL, MONGODB and Python.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 Send me an email: scostas54@gmail.com
 
 <!---
 scostas54/scostas54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
